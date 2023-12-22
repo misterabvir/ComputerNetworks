@@ -1,8 +1,8 @@
 Terminal
-![Terminal](Images/out.png)
+![Terminal](/images/out.png)
 
 netstat
-![Terminal](Images/netstat.png)
+![Terminal](/images/netstat.png)
 
 WireShark
-![Terminal](Images/wireshark.png)
+![Terminal](/images/wireshark.png)
