@@ -8,18 +8,18 @@
 — Где “Интернет” — там имитация Интернета с помощью OSPF, выберите сами публичные сети между роутерами.
 
 ## NETWORK
-![alt text](/src/network.png "network")
+![network](./src/network.png "network")
 
 ## office1 & office2 NAT
 
-![alt text](/src/nat.png "NAT")
+![NAT](./src/nat.png "NAT")
 
 ## office3 & office4 GRE
-![alt text](/src/gre.png "GRE")
+![GRE](./src/gre.png "GRE")
 
 >ps поздно заметил что настроить NAT необходимо для office 3&2, а GRE для Offices 1&4. Переделывать не стал ввиду идентичности Office1 и Office2.
 
 ## openvpn
-![alt text](/src/vpn.png "VPN")
+![VPN](./src/vpn.png "VPN")
 
 
